@@ -6,6 +6,7 @@
 
 ## Project created with:
 - [x] HTML-5,
-- [x] CSS
+- [x] CSS,
+- [x] BOOTSTRAP 
 
 
